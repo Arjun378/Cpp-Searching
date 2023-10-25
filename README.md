@@ -42,6 +42,10 @@ You can find the Binary Search code in the `binary search.cpp` file.
 ## Linear Search: 
 ![Screenshot 2023-10-25 194046](https://github.com/Arjun378/Cpp-Searching/assets/74441883/2b0eaea3-d8e1-4be0-a7e7-2969c6abc480)
 
-## Binary Search:
 ![Screenshot 2023-10-25 194127](https://github.com/Arjun378/Cpp-Searching/assets/74441883/8b5babf3-227f-4d9e-bfc1-fc34fb99a4b3)
+
+## Binary Search:
+![Screenshot 2023-10-25 194318](https://github.com/Arjun378/Cpp-Searching/assets/74441883/8eabe27f-5856-4378-ab02-b7ce9cfe9cf5)
+
+![Screenshot 2023-10-25 194357](https://github.com/Arjun378/Cpp-Searching/assets/74441883/13bac56d-9c46-4792-b9de-b556bfec2da0)
 
