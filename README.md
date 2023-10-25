@@ -20,7 +20,7 @@ Linear Search is a straightforward search algorithm that checks each element in 
 4. Repeat until the end of the array is reached or the target value is found.
 
 ### Code
-You can find the Linear Search code in the `linear_search.cpp` file.
+You can find the Linear Search code in the `linear search.cpp` file.
 
 ## Binary Search
 
@@ -37,7 +37,7 @@ Binary Search is an efficient search algorithm that is applicable to sorted data
 7. Repeat the process with the remaining half until the target is found or the search interval is empty.
 
 ### Code
-You can find the Binary Search code in the `binary_search.cpp` file.
+You can find the Binary Search code in the `binary search.cpp` file.
 
 ## Linear Search: 
 ![Screenshot 2023-10-25 194046](https://github.com/Arjun378/Cpp-Searching/assets/74441883/2b0eaea3-d8e1-4be0-a7e7-2969c6abc480)
